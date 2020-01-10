@@ -12,7 +12,7 @@ var textArray = ["techno-savvy","Makers of tomorrow","are here to connect creati
 var speedForward = 100, //Typing Speed
     speedWait = 1000, // Wait between typing and backspacing
     speedBetweenLines = 1000, //Wait between first and second lines
-    speedBackspace = 100; //Backspace Speed
+    speedBackspace = 1000; //Backspace Speed
 
 //Run the loop
 typeWriter("output", textArray);
