@@ -4,7 +4,7 @@ var i = 0,
     isParagraph = false;
 
 // Typerwrite text content. Use a pipe to indicate the start of the second line "|".  
-var textArray = ["the creative","techno-savvy","Makers of tomorrow","are here to connect creativity",
+var textArray = ["techno-savvy","Makers of tomorrow","are here to connect creativity",
   "technology and commerce to drive brands and business growth!"
 ];
 
